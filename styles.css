@@ -1,0 +1,39 @@
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+input[type=button],
+input[type=submit],
+input[type=reset] {
+    background-color: #45c998;
+    border: 1px solid;
+    border-color: black;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+div {
+    text-align: center;
+    border-style: solid;
+    border-color: #45c998;
+    padding: 40px;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 30px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h4 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
